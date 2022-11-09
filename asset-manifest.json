@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ZweiSoms163/todo.git/static/css/main.1cc7d66a.css",
+    "main.js": "/ZweiSoms163/todo.git/static/js/main.ea4f0d94.js",
+    "index.html": "/ZweiSoms163/todo.git/index.html",
+    "main.1cc7d66a.css.map": "/ZweiSoms163/todo.git/static/css/main.1cc7d66a.css.map",
+    "main.ea4f0d94.js.map": "/ZweiSoms163/todo.git/static/js/main.ea4f0d94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cc7d66a.css",
+    "static/js/main.ea4f0d94.js"
+  ]
+}
